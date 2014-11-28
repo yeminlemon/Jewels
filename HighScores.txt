@@ -1,0 +1,30 @@
+Yemin
+12345
+Bob
+123
+John Smith
+2500
+Joe Fresh
+21750
+Ranjit
+7000
+Pikachu
+8000
+Bobby Joe
+17250
+Tim Ru
+11500
+null
+15500
+null
+7500
+null
+20250
+null
+0
+null
+250
+John Smith
+13000
+John Smith
+11250
