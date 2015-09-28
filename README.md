@@ -1,5 +1,5 @@
 Jewels
 =========
 
-ICS3U Summative Project: Bejeweled-Style Highscore Game
-Executable .jar file
+Bejeweled-Style Highscore Game
+Executable Java applet file
